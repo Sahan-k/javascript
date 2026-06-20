@@ -1,0 +1,103 @@
+body
+{
+    background-color: #292b2e;
+    color: #fff;
+    text-align: center;
+}
+
+.main-title{
+    color: #c51111;
+    font-size: 3.5rem;
+    font-weight:900;
+    font-family:Arial, Helvetica, sans-serif;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.container{
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.highlight
+{
+    background-color: yellow;
+    font-weight: bold;
+    color: #1a1a1a;
+}
+
+.hidden
+{
+    display: none;
+}
+
+section{
+    background-color: #E8FFF0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#example-1 h2 { color: #0482ff;}
+#example-2 h2 { color: #06fc58;}
+#example-3 h2 { color: #ff6600;}
+#example-4 h2 { color: #0066cc;}
+#example-5 h2 { color: #0066cc;}
+#example-6 h2 { color: #0066cc;}
+#example-7 h2 { color: #cc0000;}
+#example-8 h2 { color: #cc0000;}
+
+#myParagraph {
+    font-size: 18px;
+    color: #333;
+    margin: 20px 0;
+}
+
+#changeTextButton{
+    background-color: #d2e00a;
+    color: #2405ec;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#citiesList {
+    list-style-type: none;
+    padding: 0;
+    color: #333;
+}
+
+#coffeOrder {
+    background-color: #eb1414;
+    padding: 5px;
+    display: inline-block;
+}
+#changeOrder{
+    display:block;
+    margin: 10px auto;
+}
+
+#shoppingList {
+    list-style-type: none;
+    padding: 0;
+    color: #333;
+}
+
+#taskList {
+    list-style-type: none;
+    padding: 0;
+    color: #333;
+}
+
+#teaList {
+    list-style-type: none;
+    padding: 0;
+    color: #333;
+}
+
+.ex7 p{
+    color: #333;
+}
+
