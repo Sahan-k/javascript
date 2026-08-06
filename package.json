@@ -1,0 +1,21 @@
+{
+  "name": "advance_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahan-k/Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Sahan-k/Javascript/issues"
+  },
+  "homepage": "https://github.com/Sahan-k/Javascript#readme"
+}
